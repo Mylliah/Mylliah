@@ -51,12 +51,8 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 <details>
   <summary><b>Where to find me</b></summary>
 
-<a href="https://github.com/Mylliah" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-</a>
+[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Mylliah)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
 
 </details>
 
