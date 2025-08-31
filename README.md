@@ -5,7 +5,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 <details>
   <summary><b>About Me - in English please!</b></summary>
 
-### My skills
+### 🔻 My skills
 
 - **Languages & Databases:**  
 <p>
@@ -27,7 +27,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 </p>
 
 
- ### OS & Tools
+ ### 🔻 OS & Tools
 
 - **Operating Systems:**  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
 
@@ -37,13 +37,13 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 
 - **Frameworks & Libraries:**  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
 
-### Where to find me
+### 🔻 Where to find me
 
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mylliah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
 
 
-### What I'm currently learning
+### 🔻 What I'm currently learning
 
 - 🌱 Exploring **cybersecurity**
 - 🔐 Deepening my knowledge in **C** and **Python**  
@@ -51,7 +51,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🌍 Improving my **web development skills** (Flask, Django, APIs)  
 
 
-### My hobbies / Fun fact
+### 🔻 My hobbies / Fun fact
 
 - 🎮 Playing video games  
 - 📖 Reading about **new technologies** and especially **cybersecurity**  
@@ -59,10 +59,10 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🇯🇵  Learning about **Japanese language & culture**
 
 
-### Motto & Quotes
+### 🔻 Motto & Quotes
 
 - 🔐 *"An ounce of prevention is worth a pound of cure."* — Benjamin Franklin
-- 👂 *"The quieter you become, the more you are able to hear."* 
+- 👂 *"The quieter you become, the more you are able to hear."* (applied to cybersecurity vigilance)
 - 🤝 *"Talent wins games, but teamwork wins championships."* — Michael Jordan
 
 </details>
@@ -71,7 +71,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 <details>
   <summary><b>About Me - in French please!</b></summary>
 
-### Mes compétences
+### 🔻 Mes compétences
 
 - **Langages & Bases de données :**  
 <p>
@@ -93,43 +93,24 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 </p>
 
 
-### OS & Outils
+### 🔻 OS & Outils
 
-- **Systèmes d’exploitation :**  
-<p>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
-</p>
+- **Systèmes d’exploitation :**  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
 
-- **Outils de versioning :**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+- **Outils de versioning :**  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-- **Éditeurs & IDEs :**  
-<p>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-</p>
+- **Éditeurs & IDEs :**  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
 
-- **Frameworks & Librairies :**  
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
-</p>
+- **Frameworks & Librairies :**  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
 
 
-### Où me trouver
+### 🔻 Où me trouver
 
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mylliah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
 
 
-### Ce que j’apprends en ce moment
+### 🔻 Ce que j’apprends en ce moment
 
 - 🌱 Découvrir la **cybersécurité**  
 - 🔐 Approfondir mes connaissances en **C** et **Python**  
@@ -137,12 +118,20 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🌍 Améliorer mes compétences en **développement web** (Flask, Django, APIs)  
 
 
-### Mes hobbies
+### 🔻 Mes hobbies
 
 - 🎮 Jouer aux jeux vidéo  
 - 📖 Lire sur les **nouvelles technologies** et surtout la **cybersécurité**  
 - 🎨 Faire du dessin  
 - 🇯🇵 Apprendre la **langue et la culture japonaises**
+
+
+### 🔻 Devises & Citations  
+
+- 🔐 *« Mieux vaut prévenir que guérir. »* — Benjamin Franklin  
+- 👂 *« Plus tu deviens silencieux, plus tu es capable d'entendre. »*  (appliqué à la vigilance en cybersécurité)
+- 🤝 *« Le talent fait gagner des matchs, mais le travail d’équipe fait gagner des championnats. »* — Michael Jordan  
+
 
 </details>
 
@@ -150,7 +139,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 <details>
   <summary><b>About Me - in Japanese please!</b></summary>
 
-### スキル
+### 🔻 スキル
 
 - **言語とデータベース:**  
 <p>
@@ -172,7 +161,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 </p>
 
 
-### OS とツール
+### 🔻 OS とツール
 
 - **オペレーティングシステム:**  
 <p>
@@ -181,34 +170,20 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
   <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
 </p>
 
-- **バージョン管理ツール:**  
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+- **バージョン管理ツール:**  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
 
-- **エディタと IDE:**  
-<p>
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
-</p>
+- **エディタと IDE:**  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-- **フレームワークとライブラリ:**  
-<p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
-</p>
+- **フレームワークとライブラリ:**  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
 
 
-### 連絡先
+### 🔻 連絡先
 
 [![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mylliah)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
 
 
-### 現在学んでいること
+### 🔻 現在学んでいること
 
 - 🌱 **サイバーセキュリティ** を探求する  
 - 🔐 **C 言語** と **Python** の知識を深める  
@@ -216,7 +191,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🌍 **ウェブ開発スキル** を向上させる（Flask, Django, API）  
 
 
-### 趣味
+### 🔻 趣味
 
 - 🎮 ビデオゲームを遊ぶ  
 - 📖 **新しい技術**、特に **サイバーセキュリティ** を読む  
@@ -224,10 +199,10 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🇯🇵  **日本語と日本文化** を学ぶ  
 
 
-### 座右の銘と引用
+### 🔻 座右の銘と引用
 
 - 🔐 *"An ounce of prevention is worth a pound of cure."* — Benjamin Franklin  
-- 👂 *"The quieter you become, the more you are able to hear."*  
+- 👂 *"The quieter you become, the more you are able to hear."* （サイバーセキュリティ警戒に適用）
 - 🤝 *"Talent wins games, but teamwork wins championships."* — Michael Jordan  
 
 </details>
