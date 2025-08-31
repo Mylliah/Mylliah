@@ -280,6 +280,14 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
   <li>Webstack debugging</li>
   <li>Portfolio project</li>
 </ul>
+
+  <p>
+    Official program page:
+    <a href="https://www.holbertonschool.fr/bachelor/bachelor-en-developpement-informatique-specialite-cybersecurite?utm_campaign=MV+-+Notori%C3%A9t%C3%A9&utm_medium=cpc&utm_source=google" target="_blank" rel="noopener noreferrer">
+        holbertonschool.fr – Cybersecurity specialty
+    </a>
+  </p>
+
 </details>
 
 <details>
