@@ -8,46 +8,39 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 ### My skills
 
 - **Languages & Databases:**  
-![C](https://img.shields.io/badge/C-00599C?logo=gnu&style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&style=for-the-badge&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=GNU-Bash&style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=MySQL&style=for-the-badge&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
 
 - **Web:**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
 
  ### OS & Tools
 
-- **Operating Systems:**  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+- **Operating Systems:**  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
 
-- **Versions Control Tools:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+- **Versions Control Tools:**  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
 
-- **Editors & IDEs:**  
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?logo=Visual-Studio-Code&style=for-the-badge&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=IntelliJ-IDEA&style=for-the-badge&logoColor=white)
+- **Editors & IDEs:**  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
 
-- **Frameworks & Libraries:**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
-![Jinja](https://img.shields.io/badge/-Jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=Databricks&style=for-the-badge&logoColor=white)
-
+- **Frameworks & Libraries:**  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/> <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
 
 ### Where to find me
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Mylliah)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mylliah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
 
 
 ### What I'm currently learning
@@ -81,46 +74,59 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 ### Mes compétences
 
 - **Langages & Bases de données :**  
-![C](https://img.shields.io/badge/C-00599C?logo=gnu&style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&style=for-the-badge&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=GNU-Bash&style=for-the-badge&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=MySQL&style=for-the-badge&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=SQLite&style=for-the-badge&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&style=for-the-badge&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
 
 - **Web :**  
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&style=for-the-badge&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&style=for-the-badge&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&style=for-the-badge&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
 
 
 ### OS & Outils
 
 - **Systèmes d’exploitation :**  
-![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=Windows&style=for-the-badge&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
-![Mac_OS](https://img.shields.io/badge/-Mac_OS-999999?logo=Apple&style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
+</p>
 
 - **Outils de versioning :**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=Git&style=for-the-badge&logoColor=white)
-![Github](https://img.shields.io/badge/-Github-181717?logo=Github&style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
 - **Éditeurs & IDEs :**  
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?logo=Visual-Studio-Code&style=for-the-badge&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?logo=IntelliJ-IDEA&style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+</p>
 
 - **Frameworks & Librairies :**  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&style=for-the-badge&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&style=for-the-badge&logoColor=white)
-![Jinja](https://img.shields.io/badge/-Jinja-B41717?logo=Jinja&style=for-the-badge&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=Databricks&style=for-the-badge&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
 
 
 ### Où me trouver
 
-[![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/Mylliah)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
+[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mylliah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
 
 
 ### Ce que j’apprends en ce moment
@@ -138,6 +144,90 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🎨 Faire du dessin  
 - 🇯🇵 Apprendre la **langue et la culture japonaises**
 
-
 </details>
 
+
+<details>
+  <summary><b>About Me - in Japanese please!</b></summary>
+
+### スキル
+
+- **言語とデータベース:**  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+
+- **ウェブ:**  
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+
+### OS とツール
+
+- **オペレーティングシステム:**  
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/macOS-999999?style=flat-square&logo=apple&logoColor=white"/>
+</p>
+
+- **バージョン管理ツール:**  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
+
+- **エディタと IDE:**  
+<p>
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellij-idea&logoColor=white"/>
+</p>
+
+- **フレームワークとライブラリ:**  
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=flat-square&logo=jinja&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white"/>
+</p>
+
+
+### 連絡先
+
+[![Github](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mylliah)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/myriam-mezhoud-aa01a2358/)
+
+
+### 現在学んでいること
+
+- 🌱 **サイバーセキュリティ** を探求する  
+- 🔐 **C 言語** と **Python** の知識を深める  
+- 🗄️ **データベース**（SQL, MongoDB, SQLAlchemy）を実践する  
+- 🌍 **ウェブ開発スキル** を向上させる（Flask, Django, API）  
+
+
+### 趣味
+
+- 🎮 ビデオゲームを遊ぶ  
+- 📖 **新しい技術**、特に **サイバーセキュリティ** を読む  
+- 🎨 絵を描く  
+- 🇯🇵  **日本語と日本文化** を学ぶ  
+
+
+### 座右の銘と引用
+
+- 🔐 *"An ounce of prevention is worth a pound of cure."* — Benjamin Franklin  
+- 👂 *"The quieter you become, the more you are able to hear."*  
+- 🤝 *"Talent wins games, but teamwork wins championships."* — Michael Jordan  
+
+</details>
