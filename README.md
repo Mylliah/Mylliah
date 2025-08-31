@@ -206,3 +206,161 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 - 🤝 *"Talent wins games, but teamwork wins championships."* — Michael Jordan  
 
 </details>
+
+<details>
+  <summary>🎯 Holberton School – Learning Program Details</summary>
+
+<details>
+  <summary><b>🔹 First year</b></summary>
+
+<h3>Sprint 1</h3>
+<ul>
+  <li>Git and command line editors</li>
+  <li>Introduction to Bash</li>
+  <li>C – first statements</li>
+  <li>C – pointers</li>
+  <li>C – recursion</li>
+  <li>C – static library</li>
+  <li>C – memory allocation</li>
+  <li>C – preprocessor</li>
+  <li>C – variadic functions</li>
+  <li>C – bit manipulation</li>
+  <li>C – file I/O</li>
+  <li>Singly linked lists</li>
+  <li>Create your own printf</li>
+  <li>Create your own basic Shell</li>
+</ul>
+
+<h3>Sprint 2</h3>
+<ul>
+  <li>Python – first statements</li>
+  <li>Python – import and modules</li>
+  <li>Python – data structures</li>
+  <li>Python – exceptions</li>
+  <li>Python – classes</li>
+  <li>Python – inheritance</li>
+  <li>Python – file I/O</li>
+  <li>Python – JSON serialization / deserialization</li>
+  <li>HTML/CSS introduction</li>
+  <li>SQL – basic queries</li>
+  <li>SQL – join queries</li>
+  <li>C – dynamic libraries</li>
+  <li>C – Makefiles</li>
+  <li>Doubly linked lists</li>
+  <li>Stacks and Queues</li>
+  <li>Hash tables</li>
+  <li>Sorting algorithms</li>
+  <li>Binary trees</li>
+  <li>Bash – scripting</li>
+  <li>Unix processes and signals</li>
+  <li>Regex</li>
+  <li>Network introduction</li>
+</ul>
+
+<h3>Sprint 3</h3>
+<ul>
+  <li>Python – Object-relational mapping</li>
+  <li>Python – Web framework</li>
+  <li>Python – RESTful API</li>
+  <li>Python – web scraping</li>
+  <li>JavaScript – first statements</li>
+  <li>JavaScript – objects</li>
+  <li>JavaScript – scopes and closures</li>
+  <li>JavaScript – web scraping</li>
+  <li>Search algorithms</li>
+  <li>SSH</li>
+  <li>SSL certificate</li>
+  <li>Web server</li>
+  <li>Load balancer</li>
+  <li>Firewall</li>
+  <li>MySQL primary–replica</li>
+  <li>Server monitoring</li>
+  <li>Code deployment</li>
+  <li>Postmortem</li>
+  <li>Webstack debugging</li>
+  <li>Portfolio project</li>
+</ul>
+</details>
+
+<details>
+  <summary><b>🔹 Second year – Cybersecurity specialty</b></summary>
+
+<h3>Sprint 1</h3>
+<ul><b>Cybersecurity Basics</b>
+  <li>Pentesting Ethics &amp; Methodologies</li>
+</ul>
+<ul><b>Network Security Basics</b>
+  <li>Passive &amp; Active reconnaissance</li>
+  <li>Host Discovery (Nmap)</li>
+</ul>
+
+<ul><b>Network Security Advanced</b>
+  <li>Nmap – Basic &amp; Advanced Port Scans</li>
+  <li>Protocols and Servers – practical challenge</li>
+</ul>
+
+<ul><b>Linux Security</b>
+  <li>Permissions, SUID &amp; SGID</li>
+  <li>Broken Access Control</li>
+</ul>
+
+<ul><b>Database breach</b>
+  <li>SQL and NoSQL Injections</li>
+</ul>
+
+<ul><b>Tools</b>
+  <li>Wireshark</li>
+  <li>Burp Suite</li>
+</ul>
+
+<h3>Sprint 2</h3>
+<ul><b>Web Application Security</b>
+  <li>Web Hacking Discovery</li>
+  <li>Authentication Bypass</li>
+</ul>
+
+<ul><b>Vulnerability Research &amp; Exploitation</b>
+  <li>Vulnerabilities 101 &amp; Capstone</li>
+</ul>
+
+<ul><b>Web Application Security – Advanced</b>
+  <li>IDOR, File Inclusion, SSRF</li>
+  <li>Cross-site Scripting, SQLi</li>
+  <li>Command Injection</li>
+</ul>
+
+<ul><b>Windows Active Directory Security</b>
+  <li>AD Exploitation &amp; Practices</li>
+</ul>
+
+<h3>Sprint 3</h3>
+<ul><b>Linux and Windows privilege escalation</b>
+  <li>Reverse Engineering Fundamentals</li>
+  <li>Static Analysis</li>
+  <li>Dynamic Analysis</li>
+  <li>Malware Analysis</li>
+</ul>
+
+<ul><b>Mobile Security</b>
+  <li>Static analysis in mobile security</li>
+  <li>Dynamic analysis in mobile security</li>
+</ul>
+
+<ul><b>Cybersecurity norms</b>
+  <li>ISO 2700x</li>
+  <li>NIST</li>
+</ul>
+
+<ul><b>Final project</b>
+  <li>Project chosen by the student from several proposals simulating a cyber defense or cyber attack (e.g., Honeypot)</li>
+</ul>
+
+  <p>
+    Official program page:
+    <a href="https://www.holbertonschool.fr/bachelor/bachelor-en-developpement-informatique-specialite-cybersecurite?utm_campaign=MV+-+Notori%C3%A9t%C3%A9&utm_medium=cpc&utm_source=google" target="_blank" rel="noopener noreferrer">
+        holbertonschool.fr – Cybersecurity specialty
+    </a>
+  </p>
+</details>
+
+</details>
