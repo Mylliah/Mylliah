@@ -152,7 +152,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 </details>
 
 <details>
-  <summary><b>🔹 Second year – Cybersecurity specialty</b></summary>
+  <summary><b>🔹 Second year – Cybersecurity speciality</b></summary>
 
 <h3>Sprint 1</h3>
 <ul><b>Cybersecurity Basics</b>
