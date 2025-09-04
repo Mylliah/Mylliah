@@ -67,7 +67,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 
 </details>
 
-
+<!-- 
 <details>
   <summary>🎯 Holberton School – Learning Program Details</summary>
 
@@ -233,3 +233,5 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 </details>
 
 </details>
+
+--!>
