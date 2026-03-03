@@ -7,7 +7,7 @@ My name is **Mylliah**, I am a student at **Holberton School** where I study sof
 ### 🔻 My Projects
 
 - **Holberton School MVP Project - Portfolio** - November 2025  
-<a href="https://mylliah.github.io/">https://mylliah.github.io/</a>  
+<a href="https://mylliah.github.io/mvp-sticky_notes/">https://mylliah.github.io/mvp-sticky_notes/</a>  
 Status: Under construction  
 Description: Collaborative website for easy sharing of interactive notes  
 
