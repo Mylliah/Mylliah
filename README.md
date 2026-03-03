@@ -2,8 +2,23 @@
 
 My name is **Mylliah**, I am a student at **Holberton School** where I study software development. 
 
-<details>
-  <summary><b>About Me</b></summary>
+## About Me
+
+### 🔻 My Projects
+
+- **Holberton School MVP Project - Portfolio** - November 2025  
+<a href="https://mylliah.github.io/">https://mylliah.github.io/</a>  
+Status: Under construction  
+Description: Collaborative website for easy sharing of interactive notes  
+
+- **Site on customer request** - February 2026  
+<a href="https://dtsignalisation">https://dtsignalisation</a>  
+Status: Finished  
+Description: Showcase website for a road marking professional  
+
+- **Site on costumer request** - On 2026  
+Status: In progress  
+Description: Website for a restaurant  
 
 ### 🔻 My skills
 
